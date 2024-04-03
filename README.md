@@ -3,4 +3,5 @@
 //yeah!
 
 1. git commit
+新手教學
 學習中
